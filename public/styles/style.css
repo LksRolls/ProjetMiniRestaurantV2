@@ -1,0 +1,10 @@
+/* ---- HEADER ---- */
+header{
+    position: fixed;
+    background-color: white;
+    padding: 2%;
+}
+
+header a img{
+    margin-left: 5%;
+}
